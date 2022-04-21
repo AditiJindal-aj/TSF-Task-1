@@ -1,8 +1,8 @@
 # TSF-Task-1
 TASK 1: PREDICTION USING SUPERVISED MACHINE LEARNING
-GRIP MAY 2021
+GRIP APRIL 2022
 In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables.
-Author: Debasmita Majumder
+Author: Aditi Jindal
 IMPORTING THE STANDARD LIBRARIES
 import pandas as pd
 import matplotlib.pyplot as plt
